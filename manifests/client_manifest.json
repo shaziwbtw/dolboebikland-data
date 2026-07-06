@@ -3,13 +3,13 @@
   "minecraftVersion": "26.1.2",
   "fabricLoader": "0.18.4",
   "javaVersion": "25",
-  "files": []
-}
-
-{
-  "path": "mods/required/имя-мода.jar",
-  "size": 245812,
-  "sha256": "sha256:441598a23974b8ccb1175f865685591b91259ed508ae678db330f743633011c0",
-  "url": "https://github.com/shaziwbtw/dolboebikland-data/releases/download/test/dlintro-1.0.0.jar",
-  "encrypted": false
+  "files": [
+    {
+      "path": "mods/required/dlintro-1.0.0.jar",
+      "size": 245812,
+      "sha256": "441598a23974b8ccb1175f865685591b91259ed508ae678db330f743633011c0",
+      "url": "https://github.com/shaziwbtw/dolboebikland-data/releases/download/test/dlintro-1.0.0.jar",
+      "encrypted": false
+    }
+  ]
 }

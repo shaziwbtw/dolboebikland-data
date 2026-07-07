@@ -1,1 +1,152 @@
-{ "version": "1.0.0", "files": [] }
+{
+  "version": "1.0.0",
+  "files": [
+    {
+      "path": "mods/client/recommended/AmbientSounds_FABRIC_v6.3.6_mc26.1.2.jar",
+      "size": 84827805,
+      "sha256": "ed0f24b65ead1060042278e4c6ccfbe6c30743bf3b0f1e355c01e09a8ffc0bc0",
+      "url": "https://github.com/shaziwbtw/dolboebikland-data/releases/download/recommended/AmbientSounds_FABRIC_v6.3.6_mc26.1.2.jar",
+      "encrypted": false
+    },
+    {
+      "path": "mods/client/recommended/betterbiomeblend-fabric-26.1-1.4.0.jar",
+      "size": 68926,
+      "sha256": "f387267ab06f64fe40805af6effa48cf1c53c6b4312dfb5075d313724ec3b1ba",
+      "url": "https://github.com/shaziwbtw/dolboebikland-data/releases/download/recommended/betterbiomeblend-fabric-26.1-1.4.0.jar",
+      "encrypted": false
+    },
+    {
+      "path": "mods/client/recommended/bobby-5.2.12+mc26.1.jar",
+      "size": 863597,
+      "sha256": "6731e647ab8d7cec1ba2bbf3e7598bb396208a3d12dbe19930e20b9916f4c713",
+      "url": "https://github.com/shaziwbtw/dolboebikland-data/releases/download/recommended/bobby-5.2.12+mc26.1.jar",
+      "encrypted": false
+    },
+    {
+      "path": "mods/client/recommended/chat_heads-1.2.2-fabric-26.1.jar",
+      "size": 90861,
+      "sha256": "c8827bcfec341feaef3ab31998093fe56b1b07648e17e2afa5e085eab3275a72",
+      "url": "https://github.com/shaziwbtw/dolboebikland-data/releases/download/recommended/chat_heads-1.2.2-fabric-26.1.jar",
+      "encrypted": false
+    },
+    {
+      "path": "mods/client/recommended/Chunky-Fabric-1.4.58.jar",
+      "size": 354127,
+      "sha256": "d6b5eed691b7fcc261c68a6734e25cb09632211c13ac231d3fd713f8445b32ff",
+      "url": "https://github.com/shaziwbtw/dolboebikland-data/releases/download/recommended/Chunky-Fabric-1.4.58.jar",
+      "encrypted": false
+    },
+    {
+      "path": "mods/client/recommended/CreativeCore_FABRIC_v2.14.14_mc26.1.2.jar",
+      "size": 1415451,
+      "sha256": "9630af46b1d7019a81a67f7392d046ca2a6621210c453292036a9d727a0602a8",
+      "url": "https://github.com/shaziwbtw/dolboebikland-data/releases/download/recommended/CreativeCore_FABRIC_v2.14.14_mc26.1.2.jar",
+      "encrypted": false
+    },
+    {
+      "path": "mods/client/recommended/entity_model_features-3.2.4-26.1-fabric.jar",
+      "size": 577617,
+      "sha256": "07ff1b184ad9fcb9c540d3bb8d004d903474f90c195e4e3ce00be56faac243b8",
+      "url": "https://github.com/shaziwbtw/dolboebikland-data/releases/download/recommended/entity_model_features-3.2.4-26.1-fabric.jar",
+      "encrypted": false
+    },
+    {
+      "path": "mods/client/recommended/entity_texture_features_26.1-fabric-7.1.jar",
+      "size": 740706,
+      "sha256": "7e9cf735b26d2d5ea8d1cc247dd60351be8bd401b30556b84054df85d334f9c4",
+      "url": "https://github.com/shaziwbtw/dolboebikland-data/releases/download/recommended/entity_texture_features_26.1-fabric-7.1.jar",
+      "encrypted": false
+    },
+    {
+      "path": "mods/client/recommended/fabric-api-0.147.0+26.1.2.jar",
+      "size": 2415446,
+      "sha256": "ab7877a8f7c8e47570d3eb7104b2fb2f3a324f6d655356fe73967f2d3290bab8",
+      "url": "https://github.com/shaziwbtw/dolboebikland-data/releases/download/recommended/fabric-api-0.147.0+26.1.2.jar",
+      "encrypted": false
+    },
+    {
+      "path": "mods/client/recommended/Flashback-0.40.0-for-MC26.1.jar",
+      "size": 211454309,
+      "sha256": "535407a9e4471415b46b719e116374d63886a4cb8fcfeba87a13280a8fed2c2e",
+      "url": "https://github.com/shaziwbtw/dolboebikland-data/releases/download/recommended/Flashback-0.40.0-for-MC26.1.jar",
+      "encrypted": false
+    },
+    {
+      "path": "mods/client/recommended/iris-fabric-1.10.9+mc26.1.1.jar",
+      "size": 2803860,
+      "sha256": "aea0eefb174d19ad97a812b6de2e304f0d3abc50357b316908cf1035f1514b07",
+      "url": "https://github.com/shaziwbtw/dolboebikland-data/releases/download/recommended/iris-fabric-1.10.9+mc26.1.1.jar",
+      "encrypted": false
+    },
+    {
+      "path": "mods/client/recommended/justzoom_fabric_2.1.4_MC_26.1.1.jar",
+      "size": 247381,
+      "sha256": "d80d36d3bd338e40a584e682177d3598bebaf1fda2310318500a3c8c591e365a",
+      "url": "https://github.com/shaziwbtw/dolboebikland-data/releases/download/recommended/justzoom_fabric_2.1.4_MC_26.1.1.jar",
+      "encrypted": false
+    },
+    {
+      "path": "mods/client/recommended/konkrete_fabric_1.10.1_MC_26.1.1.jar",
+      "size": 304156,
+      "sha256": "4b768c5ac03f63febf78488d52ea9f3aa27b2b485917caf203c271945c9be44b",
+      "url": "https://github.com/shaziwbtw/dolboebikland-data/releases/download/recommended/konkrete_fabric_1.10.1_MC_26.1.1.jar",
+      "encrypted": false
+    },
+    {
+      "path": "mods/client/recommended/lambdynamiclights-4.10.2+26.1.2.jar",
+      "size": 1336717,
+      "sha256": "c0392d302596ba8de79fecba08a0264c57b4a8a82f0ed2fccf4bd810b8b538ba",
+      "url": "https://github.com/shaziwbtw/dolboebikland-data/releases/download/recommended/lambdynamiclights-4.10.2+26.1.2.jar",
+      "encrypted": false
+    },
+    {
+      "path": "mods/client/recommended/litematica-fabric-26.1.2-0.27.4.jar",
+      "size": 1843118,
+      "sha256": "1e46f21e5ccec2377d262a37fde3feb68879bd6e412525e74d4d0b3c0489ab0e",
+      "url": "https://github.com/shaziwbtw/dolboebikland-data/releases/download/recommended/litematica-fabric-26.1.2-0.27.4.jar",
+      "encrypted": false
+    },
+    {
+      "path": "mods/client/recommended/litematica-printer-26.1.1-3.2.2.jar",
+      "size": 155027,
+      "sha256": "bcec9c7abb123d9d57768761d1be538dc1a7a076287ff4718ee7864229e8c219",
+      "url": "https://github.com/shaziwbtw/dolboebikland-data/releases/download/recommended/litematica-printer-26.1.1-3.2.2.jar",
+      "encrypted": false
+    },
+    {
+      "path": "mods/client/recommended/malilib-fabric-26.1.2-0.28.4.jar",
+      "size": 1910147,
+      "sha256": "ed637919d382ea3c231dc171a776d4312e5a616913c8b182948e84ac6ea756af",
+      "url": "https://github.com/shaziwbtw/dolboebikland-data/releases/download/recommended/malilib-fabric-26.1.2-0.28.4.jar",
+      "encrypted": false
+    },
+    {
+      "path": "mods/client/recommended/MyTotemDoll-2.4.0+26.1+fabric.jar",
+      "size": 1820516,
+      "sha256": "166f765073d3a95b398e284529a7a9f6542355c544daee2342ab7f7e9d4eedc4",
+      "url": "https://github.com/shaziwbtw/dolboebikland-data/releases/download/recommended/MyTotemDoll-2.4.0+26.1+fabric.jar",
+      "encrypted": false
+    },
+    {
+      "path": "mods/client/recommended/skinlayers3d-fabric-1.11.1-mc26.1.jar",
+      "size": 1948032,
+      "sha256": "f5787a8207c9f1e1e6bad4f5a5d82d313eff68132babfd1621046d7da0492016",
+      "url": "https://github.com/shaziwbtw/dolboebikland-data/releases/download/recommended/skinlayers3d-fabric-1.11.1-mc26.1.jar",
+      "encrypted": false
+    },
+    {
+      "path": "mods/client/recommended/sodium-fabric-0.8.10+mc26.1.2.jar",
+      "size": 1811107,
+      "sha256": "96751979fe7de81a8b20eab06f9e74ddc2bf4784f7916b668298f2d8081bbdcb",
+      "url": "https://github.com/shaziwbtw/dolboebikland-data/releases/download/recommended/sodium-fabric-0.8.10+mc26.1.2.jar",
+      "encrypted": false
+    },
+    {
+      "path": "mods/client/recommended/voicechat-fabric-2.6.17+26.1.2.jar",
+      "size": 5509570,
+      "sha256": "9644cc302e104e1afe748ce942661f8a5b2ffe4e8f7b012d30c4d93aa63912cc",
+      "url": "https://github.com/shaziwbtw/dolboebikland-data/releases/download/recommended/voicechat-fabric-2.6.17+26.1.2.jar",
+      "encrypted": false
+    }
+  ]
+}
